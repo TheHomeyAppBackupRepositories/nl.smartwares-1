@@ -1,0 +1,6 @@
+{
+  "error": {
+    "dayTemp": "Dag temperatuur mag niet lager dan 5 of hoger dan 28 graden zijn.",
+    "nightTemp": "Nacht temperatuur mag niet lager dan 5 of hoger dan 28 graden zijn."
+  }
+}
